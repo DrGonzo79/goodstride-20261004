@@ -1,0 +1,10 @@
+{
+  "updated":"2026-10-04",
+  "spots":[
+    {"id":"nyc-youth","charity":"Miles for Youth","cause":"Youth","race":"NYC Marathon","date":"2026-11-01","deadline":"2026-06-30","minimum":3500,"spots":8,"support":"Coach, campaign page, team singlet","verified":true},
+    {"id":"nyc-food","charity":"City Table Fund","cause":"Food access","race":"NYC Marathon","date":"2026-11-01","deadline":"2026-05-15","minimum":4250,"spots":3,"support":"Campaign toolkit, race-week dinner","verified":true},
+    {"id":"chicago-water","charity":"Clear Water Relay","cause":"Clean water","race":"Chicago Marathon","date":"2026-10-11","deadline":"2026-07-15","minimum":2200,"spots":12,"support":"Fundraising mentor, training plan","verified":true},
+    {"id":"berlin-climate","charity":"Run Green Europe","cause":"Climate","race":"Berlin Marathon","date":"2026-09-27","deadline":"2026-04-30","minimum":2900,"spots":5,"support":"EU runner community, digital toolkit","verified":false},
+    {"id":"london-health","charity":"Bright Minds UK","cause":"Mental health","race":"London Marathon","date":"2027-04-25","deadline":"2026-10-31","minimum":3000,"spots":10,"support":"Coach, local meetups, donor templates","verified":true}
+  ]
+}
